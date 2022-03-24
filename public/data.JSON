@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Sophie's World",
+        "authorName": "Jostein Gaarder",
+        "genre": "Philosophical novel",
+        "price": 11,
+        "language": "Norwegian",
+        "img": "https://cdn.shopify.com/s/files/1/0592/2593/1985/products/Sophie_s_World_Jostein_Gaarder_860x.jpg?v=1642756972"
+    },
+    {
+        "name": "Hamlet",
+        "authorName": "William Shakespeare",
+        "genre": "Shakespearean tragedy",
+        "price": 7,
+        "language": "Early Modern English",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/41xv8R99nzL._SX311_BO1,204,203,200_.jpg"
+    },
+    {
+        "name": "Putul Nacher Itikotha",
+        "authorName": "Manik Bandopadhyay",
+        "genre": "Classic Novel",
+        "price": 3,
+        "language": "Bangla",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71Zt7TO94SL.jpg"
+    },
+    {
+        "name": "Amar Dekha Rajnitir 50 Bochor",
+        "authorName": "Abul Mansur Ahmad",
+        "genre": "Political History",
+        "price": 9,
+        "language": "Bangla",
+        "img": "https://bdebooks.com/wp-content/uploads/2019/03/amar-dekha-rajnitir-50-bochor-by-Abul-Mansur-Ahmed-1.jpg"
+    },
+    {
+        "name": "Sapiens: A Brief History of Humankind",
+        "authorName": "Yuval Noah Harari",
+        "genre": "Nonfiction",
+        "price": 24,
+        "language": "Hebrew, English, Hindi",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/41+lolL22gL.jpg"
+    },
+    {
+        "name": "Man Makes Himself",
+        "authorName": "V. Gordon Childe",
+        "genre": "History",
+        "price": 51,
+        "language": "English",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91NlRMuHSZS.jpg"
+    },
+    {
+        "name": "Naree",
+        "authorName": "Humayun Azad",
+        "genre": "Feminism",
+        "price": 39,
+        "language": "Bangla",
+        "img": "https://www.amarbooks.org/thumbs/1571970892.jpg"
+    },
+    {
+        "name": "Gabhi Bittanto",
+        "authorName": "Ahmed Sofa",
+        "genre": "Satire",
+        "price": 3,
+        "language": "Bangla",
+        "img": "https://static-01.daraz.com.bd/p/0e20d321f27bdf8f2916b991a04254a5.jpg"
+    },
+    {
+        "name": "Abol Tabol",
+        "authorName": "Sukumar Ray",
+        "genre": "Poetry",
+        "price": 20,
+        "language": "Bangla",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81ABjJsG3CL.jpg"
+    }
+]

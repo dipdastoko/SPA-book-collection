@@ -1,0 +1,27 @@
+.book{
+    border: 2px solid gray;
+    margin: auto;
+    height: 500px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.book img{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 10px;
+    
+}
+.text{
+    width: 200px;
+}
+.text h3{
+    text-align: center;
+}
+.text p{
+    margin-left: 15px;
+}
+.text p span{
+    font-weight: 600;
+    
+}

@@ -1,0 +1,11 @@
+.book-shop{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.book-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    row-gap: 30px;
+    margin-left: 50px;
+    margin-top: 50px;
+}

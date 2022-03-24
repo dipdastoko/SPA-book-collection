@@ -1,9 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
+import Header from './components/Header/Header';
+import BookShop from './components/BookShop/BookShop';
 
 function App() {
   return (
-    <h2>The superhero direction</h2>
+    <>
+      <Header></Header>
+      <BookShop></BookShop>
+    </>
   );
 }
 
