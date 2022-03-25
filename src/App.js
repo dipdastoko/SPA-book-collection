@@ -5,10 +5,10 @@ import BookShop from './components/BookShop/BookShop';
 
 function App() {
   return (
-    <>
+    <div className='body'>
       <Header></Header>
       <BookShop></BookShop>
-    </>
+    </div>
   );
 }
 
