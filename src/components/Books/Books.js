@@ -4,6 +4,7 @@ import './Book.css'
 const Books = props => {
     const { name, authorName, price, img, genre, language } = props.book;
     return (
+
         <div className='book'>
             <img src={img} alt="" />
             <div className='text'>
@@ -12,9 +13,15 @@ const Books = props => {
                 <p><span>Genre:</span> {genre}</p>
                 <p><span>Language:</span> {language}</p>
                 <p><span>Price:</span> ${price}</p>
+                <button>Add Book</button>
+            </div>
+            <div className='btn'>
 
             </div>
+
         </div>
+
+
     );
 };
 

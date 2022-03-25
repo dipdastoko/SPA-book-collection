@@ -1,13 +1,13 @@
 .book{
     border: 2px solid gray;
     margin: auto;
-    height: 500px;
+    height: 550px;
     border: 1px solid black;
     border-radius: 10px;
     background-color: bisque;
+    position:relative;
 }
 .book:hover{
-    cursor: pointer;
     background-color: rgb(206, 144, 101);
 }
 .book img{
@@ -19,6 +19,7 @@
 }
 .text{
     width: 200px;
+    
 }
 .text h3{
     text-align: center;
@@ -29,4 +30,19 @@
 .text p span{
     font-weight: 600;
     
+}
+.text button{
+    position:absolute;                 
+    bottom: 30px;                         
+    left: 50px;;
+    width: 100px;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: goldenrod;
+}
+.text button:hover{
+    cursor: pointer;
+    background-color: green;
+    color: whitesmoke;
 }
