@@ -1,5 +1,7 @@
 import React from 'react';
-import './Book.css'
+import './Book.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faBasketShopping } from '@fortawesome/free-solid-svg-icons';
 
 const Books = props => {
     const { name, authorName, price, img, genre, language } = props.book;
@@ -13,7 +15,7 @@ const Books = props => {
                 <p><span>Genre:</span> {genre}</p>
                 <p><span>Language:</span> {language}</p>
                 <p><span>Price:</span> ${price}</p>
-                <button>Add Book</button>
+                <button><FontAwesomeIcon icon={faBasketShopping} /> Add Book</button>
             </div>
             <div className='btn'>
 
