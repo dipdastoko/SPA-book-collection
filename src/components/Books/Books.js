@@ -15,7 +15,7 @@ const Books = props => {
                 <p><span>Genre:</span> {genre}</p>
                 <p><span>Language:</span> {language}</p>
                 <p><span>Price:</span> ${price}</p>
-                <button><FontAwesomeIcon icon={faBasketShopping} /> Add Book</button>
+                <button onClick={() => props.handleButton(props.book)}><FontAwesomeIcon icon={faBasketShopping} /> Add Book</button>
             </div>
             <div className='btn'>
 
