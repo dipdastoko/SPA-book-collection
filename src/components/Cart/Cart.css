@@ -1,3 +1,16 @@
-.cart{
+.cart-container{
+    color: #381b7c;
     text-align: center;
+}
+.addedBooksName{
+    background-color: rgba(255, 228, 196, 0.877);
+    text-align: center;
+    color: rgb(5, 110, 5);
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.addedBooksName p{
+    text-align: left;
+    color: black;
+    margin-left: 20px;
 }
